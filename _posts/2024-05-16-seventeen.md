@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "답러닝이란?"
-categories: SQL
+categories: AI
 ---
 
 # 딥러닝의 이해, 딥러닝과 머신러닝의 차이점
@@ -38,7 +38,6 @@ categories: SQL
 
 
 
-![img](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/04/ImagesSageMaker2-2.png)
 ![image](https://github.com/ChanWoo-Jung/ChanWoo-Jung.github.io/assets/100073385/34edeb07-1ca0-4ee8-a62b-4ad7afb47d40)
 
 
